@@ -1,1 +1,1 @@
-# Youtube-Thumbnail
+# youtube-thumbnail
